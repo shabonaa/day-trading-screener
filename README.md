@@ -201,3 +201,4 @@ stock-analysis-app/
 
 ⚠️ This application is for **educational and research purposes only**. It does not constitute financial advice. Always do your own research and consult with a qualified financial advisor before making investment decisions. Past performance and predictions do not guarantee future results.
 # day-trading-screener
+# day-trading-screener
